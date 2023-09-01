@@ -10,11 +10,11 @@
 
 ---
 
-# Sinta-se a vontade para se conectar comigo
+#  Sinta-se a vontade para se conectar comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/diego-moreira-280364a1/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/moreiradiego_rj/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&color=fff)](https://www.instagram.com/moreiradiego_rj/)
 
 
 
@@ -46,7 +46,7 @@
 
 - [App de clima](https://diegosantosmoreira.github.io/appdeclima/)
 
-- [Pokedéx interativo](https://diegosantosmoreira.github.io/podedexinterativo)
+- [Pokedéx interativo](https://diegosantosmoreira.github.io/pokedexinterativo)
 
 - [Validador de CPF](https://diegosantosmoreira.github.io/validadordecpf/)
 
@@ -59,3 +59,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoSantosMoreira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DiegoSantosMoreira&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+###  💡 Principais repositórios
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diegosantosmoreira/appdeclima)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diegosantosmoreira/CalculadoraDeGorjetaNew)
