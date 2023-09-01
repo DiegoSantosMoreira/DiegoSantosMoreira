@@ -12,7 +12,7 @@
 
 #  Sinta-se a vontade para se conectar comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/diego-moreira-280364a1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8&color=fff)](https://www.linkedin.com/in/diego-moreira-280364a1/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&color=fff)](https://www.instagram.com/moreiradiego_rj/)
 
@@ -62,6 +62,6 @@
 
 ###  💡 Principais repositórios
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diegosantosmoreira/appdeclima)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiegoSantosMoreira&repo=appdeclima&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoSantosMoreira/appdeclima)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diegosantosmoreira/CalculadoraDeGorjetaNew)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiegoSantosMoreira&repo=CalculadoraDeGorjetaNew&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoSantosMoreira/CalculadoraDeGorjetaNew)
